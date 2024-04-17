@@ -1,4 +1,3 @@
-//Learnprogramo-programming made simple
 #include <iostream>
 #include <cstdlib>
 #include<ctime>
